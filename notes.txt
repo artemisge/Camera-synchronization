@@ -1,0 +1,3 @@
+- 2025/01/25
+Today's successes and failures: 
+Managed to control and record from python script the PupilLabs and the phone camera. With Network API and DroidCam respectively. Initially I tried recording through Webcam phone, but the latency was too bad, so I tried to connect it just with USB by installing droidcam on the pc too. It successfully starts to record and stops at the same time, but fails to synchronize. Might be fps or bitrate problem. The phone camera seems to be lagging a bit compared to eye-tracker, but they videos are !most! of the times of the same duration. Some parts seem to be a bit sped up.
